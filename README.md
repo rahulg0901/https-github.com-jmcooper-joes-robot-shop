@@ -1,6 +1,18 @@
 # JoesRobotShop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+## Project Setup
+
+Node Version to install / use
+
+    nvm use 18.10.0
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0. Do install the CLI as follows:
+
+    npm i -g @angular/cli@16.0.0
+
+Run to install the dependencies 
+
+    npm ci 
 
 ## Development server
 
